@@ -1,0 +1,81 @@
+{
+  "title":"Quem é você na virada do ano?",
+  "questions":[
+    {
+      "id":1,
+      "question": "CHEGOU NOVEMBRO, VOCÊ?",
+      "options":[
+        {"id": 1, "name":"Nem percebe que o ano está acabando.", "alias":"A"},
+        {"id": 2, "name":"É! Falta 2 meses para este ano acabar.", "alias":"B"},
+        {"id": 3, "name":"Um mês como outro qualquer.", "alias":"C"},
+        {"id": 4, "name":"Meus Deus! Já!!!!", "alias":"D"}       
+      ]
+    },
+    {
+      "id":2,
+      "question": "COMO SERIA UM ANO NOVO PERFEITO?",
+      "options":[
+        {"id": 1, "name":"Não importa, desde que seja muito proveitoso", "alias":"A"},
+        {"id": 2, "name":"Seja em casa, praia ou sitio desde que tudo esteja devidamente planejado.", "alias":"B"},
+        {"id": 3, "name":"Ah, em casa mesmo!", "alias":"C"},
+        {"id": 4, "name":"Em um lugar onde todos que vão participar fiquem bem.", "alias":"D"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O QUE VOCÊ ESPERA DO PRÓXIMO ANO?",
+      "options":[
+        {"id": 1, "name":"Espero que seja um ano bem animado!", "alias":"A"},
+        {"id": 2, "name":"Que eu consiga realizar todos os itens da minha lista.", "alias":"B"},
+        {"id": 3, "name":"Eu não espero nada, não quero criar muitas expectativaspara depois quebrar a cara.", "alias":"C"},
+        {"id": 4, "name":"Desejo que seja um ano de muita saúde e paz.", "alias":"D"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "ESCOLHA UMA FRASE?",
+      "options":[
+        {"id": 1, "name":"Onde você vai passar o ano novo? Vou passar mal de tanto beber!!", "alias":"A"},
+        {"id": 2, "name":"Vem ai 365 novas oportunidades!", "alias":"B"},
+        {"id": 2, "name":"Então é ano novo! Meu crush está namorando e eu estou sem ninguém.", "alias":"C"},
+        {"id": 2, "name":"Jamais haverá ano novo se continuar a copiar os erros dos anos velhos.", "alias":"D"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "QUAL A SUA PARTE FAVORITA DO FINAL DE ANO?",
+      "options":[
+        {"id": 1, "name":"A festa", "alias":"A"},
+        {"id": 2, "name":"Os fogos de artifício", "alias":"B"},
+        {"id": 2, "name":"As comidas", "alias":"C"},
+        {"id": 2, "name":"As decorações", "alias":"D"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "QUAL COR VOCÊ USARIA?",
+      "options":[
+        {"id": 1, "name":"Braco: Para ter paz e harmonia.", "alias":"A"},
+        {"id": 2, "name":"Amarelo: Para ter dinheiro e brilhar no ano que chega.", "alias":"B"},
+        {"id": 2, "name":"Rosa: Para aumentar a minha autoestima...", "alias":"C"},
+        {"id": 2, "name":"Verde: Para ter saúde, que é o principal.", "alias":"D"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "O QUE NÃO PODE FALTAR NA VIRADA DO ANO?",
+      "options":[
+        {"id": 1, "name":"Família e amigos!", "alias":"A"},
+        {"id": 2, "name":"Comida e bebida", "alias":"B"},
+        {"id": 2, "name":"Um sofá e uma serie para assistir", "alias":"C"},
+        {"id": 2, "name":"Decoração, comida, bebida e um local apropriado.", "alias":"D"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "O que prefere curtir o momento: Se preocupar pra quê? Um ano novo vem cheio de novas oportunidades! É melhor deixar a vida me levar (vida leva eu) e aproveitar cada minuto.",
+    "B": "O que já tem tudo planejado: Em janeiro eu vou começar um curso novo, em maio vou viajar, setembro começo um projeto legal e em dezembro planejo tudo de novo!",
+    "C": "Aquele que perdeu as esperanças: Se esse ano foi difícil, imagina o próximo? Eu nem vou esperar nada de bom, porque assim não me decepciono. É mais fácil, né?",
+    "D": "O preocupado: Se dependesse de mim, o ano novo nem começaria. Eu não planejei nada, não sei o que vou fazer e muito menos o que esperar. Meu deus, pode adiar essa virada?"  
+  }
+}
